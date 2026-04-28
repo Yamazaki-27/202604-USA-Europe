@@ -17,6 +17,17 @@
 ### MANUVITでの改造
 <img src="Images/IMG_20260423_101424.jpg" width="700">
 
+### MANUVIT社の興味深い商品群
+
+<img src="Images/IMG_6478.jpg" width="700">
+<img src="Images/IMG_20260423_115725.jpg" width="700">
+<img src="Images/IMG_20260423_122313.jpg" width="700">
+<img src="Images/IMG_20260423_141346.jpg" width="700">
+
+
+### 海外では特に、会食も仕事
+<img src="Images/IMG_20260423_202820.jpg" width="700">
+
 ## 🇪🇺 ヨーロッパ（ロンドン・パリ）
 ### 4月8日：ロンドン視察
 - **内容**: フィンテック企業とのミートアップに参加。
