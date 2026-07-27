@@ -4,6 +4,45 @@
 
 ---
 
+## 2026-07-27 国際物流総合展2025 第4回 INNOVATION EXPO（東京・9月）
+
+### 実行ファイル
+[`Reports/202509-InnovationEXPOinTOKYO/Report.md`](202509-InnovationEXPOinTOKYO/Report.md)
+
+### 新規作成
+
+| ファイル | 内容 |
+|---|---|
+| [`KnowledgeBase/Companies/LEAD_TECH.md`](../KnowledgeBase/Companies/LEAD_TECH.md) | 「LOGITO」ブランド。全天候型無人牽引車「MyBull TMN-T60」 |
+| [`KnowledgeBase/Companies/ハクオウロボティクス.md`](../KnowledgeBase/Companies/ハクオウロボティクス.md) | ZMPスピンアウト創業。自動フォークリフト「AutoFork」。三菱ロジとの提携モデル |
+| [`KnowledgeBase/Companies/マキテック.md`](../KnowledgeBase/Companies/マキテック.md) | ローリフト型AMR。補助輪でフォーク挿入前に自重を支える機構 |
+| [`KnowledgeBase/Companies/京町産業.md`](../KnowledgeBase/Companies/京町産業.md) | ラックフォーク回転・横スライド式スタッカー。ウォーキータイプへの搭載事例 |
+| [`KnowledgeBase/Ideas/ABM_MultiPalletCapacity.md`](../KnowledgeBase/Ideas/ABM_MultiPalletCapacity.md) | ABMの奥詰め複数パレット化・カゴ車複数台搬送の検討 |
+
+### 更新
+
+| ファイル | 追記内容 |
+|---|---|
+| [`KnowledgeBase/Companies/ナブテスコ.md`](../KnowledgeBase/Companies/ナブテスコ.md) | 東京会場での観察（握り部分ストローク検知方式・複数荷重クラスの実演台車）を追記 |
+| [`KnowledgeBase/Trends/2025.md`](../KnowledgeBase/Trends/2025.md) | 国際物流総合展2025（東京）のセクションを新規追記。ABM選択肢化・薄型/大容量二極化ニーズ・中小メーカーの機構ノウハウ・提携モデルを整理 |
+| [`KnowledgeBase/Ideas/DriveUnit_InHouseProduction.md`](../KnowledgeBase/Ideas/DriveUnit_InHouseProduction.md) | 自社ブースアテンドで得た薄型（L50クラス）・5トンクラスの現場ニーズを追記 |
+
+### 抽出した重要テーマ
+
+1. **ABMの「選択肢化」**：具体的な検討層が増え、「場所によってはこれで十分」という評価を獲得。同時に「ビシャモン＝ハンド」という認知の壁も継続確認
+2. **AGV/AMR導入の「入口」需要**：数千万円規模のシステムAGVより手前の価格帯にニーズの空白がある
+3. **電動車内製化の二極化ニーズ**：薄型（L50クラス）と5トンクラスの両方に要望
+4. **中小メーカーの機構設計ノウハウ**：京町産業のラックフォーク回転機構、マキテックの補助輪機構など、要素技術レベルでの差別化事例
+5. **ハクオウロボティクスの提携モデル**：技術力を大手（三菱ロジ）に評価させ、ハード供給・販売を分担する座組み
+
+### 次回深掘り候補
+
+- 燈株式会社のAI活用アプリケーションの後日説明の結果確認
+- ナンシンの低始動キャスターと自社イノアック製キャスターの比較サンプル評価
+- ABMの奥詰め複数パレット化・カゴ車複数台搬送機構の技術的実現可能性検討
+
+---
+
 ## 2026-07-06 BIC（Bishamon Industries Corporation）本社工場訪問（カリフォルニア・4月）
 
 ### 実行ファイル
