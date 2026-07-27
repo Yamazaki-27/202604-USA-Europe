@@ -10,6 +10,7 @@
 | 1 week ago |  | 2025年3月11日 | [🇩🇪 ドイツ／LogiMAT 2025（シュトゥットガルト）](Reports/202503-LogiMat/Report.md) | 山崎・中川・橋本GM | 89枚・13.8MB | [7/8](Reports/archive_log.md) |
 | 1 week ago |  | 2025年4月15日 | [🇨🇳 中国／Electric China 2025（上海・天津）](Reports/202504-ElectricChina/Report.md) | 山崎・奥村 | 276枚・41.4MB | [7/10](Reports/archive_log.md) |
 | — |  | 2025年6月18日 | [🇯🇵 日本／第38回 オートサービスショー2025（東京ビッグサイト）](Reports/202506-ASS/Report.md) | 山崎 | 23枚・3.8MB | — |
+| Today | ★ | 2025年9月10日 | [🇯🇵 日本／国際物流総合展2025 第4回 INNOVATION EXPO（東京ビッグサイト）](Reports/202509-InnovationEXPOinTOKYO/Report.md) | 前川・奥村・佐倉 | 22枚・9.2MB | [7/27](Reports/archive_log.md) |
 | — |  | 2025年9月17日 | [🇯🇵 日本／Diet & Beauty Fair 2025（東京ビッグサイト）](Reports/202509-DietBeautyFair/Report.md) | 山崎 | 12枚・1.4MB | — |
 | 1 week ago |  | 2025年10月30日 | [🇯🇵 日本／生成AI World・ロボット展示会 2025（名古屋）](Reports/202510-GenerativeAI/Report.md) | 山崎 他 | 12枚・1.8MB | [7/8](Reports/archive_log.md) |
 | 1 week ago |  | 2025年11月26日 | [🇨🇳 中国／EP Equipment（浙江中力機械）工場視察・商談（浙江省）](Reports/202511-EP/Report.md) | 山崎・廣田・橋本 | 27枚・39.2MB | [7/6](Reports/archive_log.md) |
@@ -99,6 +100,7 @@
 | 1 week ago |  | 2026年5月26日 | [世界経済とAIが変える競争環境（経済界倶楽部 名古屋5月例会）](Reports/202605-Keizaikai-Hirayama/2026-05-26.md) | 平山准教授 | 山崎 |
 | 3 weeks ago |  | 2026年6月29日 | [ゲーミフィケーションで社会課題を解決する（経済界倶楽部 名古屋6月例会）](Reports/202606-Keizaikai-Yoshida/Lecture.md) | 吉田 直人氏（デジタル・エンターテイメント・アセット） | 山崎 |
 | just now | ★ | 2026年7月22日〜23日 | [課長研修（中産連 第120回、1・2日目）](Reports/202607-ChusanrenKachoKenshu/Lecture.md) | 中産連（一般社団法人 中部産業連盟） | 廣田 |
+| Today | ★ | 2026年8月5日 | [スギヤス（ビシャモン）のブランディングと、それを支えるAI時代の開発戦略（タナベコンサルティング 製造未来モデル研究会 第4回中部）](Reports/202608-TanabeKenkyukai/Lecture.md) | 山崎（当社 取締役技術部長） | 研究会 会員18社22名＋タナベ5名 |
 
 <br>
 
@@ -108,6 +110,7 @@
 
 | 最終更新 |  | 日付 | タイトル | 作成者 |
 |:---:|:---:|---|---|:---:|
+| Today | ★ | 2026年5月22日 | [技術部 開発テーマ提案書（開発方向性）](KnowledgeBase/開発方向性.md) | 山崎（Claude補助） |
 | 1 month ago |  | 2026年6月15日 | [中期商品開発戦略（ドラフト）](strategy/中期商品開発戦略_Draft.md) | 技術部（山崎） |
 | 1 month ago |  | 2026年6月17日 | [スギヤス新商品開発分野提言2026](strategy/20260630/スギヤス新商品開発分野提言2026.md) | 山崎 |
 | 3 weeks ago |  | 2026年6月30日 | [重点事業分野提案（GNT診断）](strategy/20260630/重点事業分野提案_GNT診断.md) | 山崎（/dx-strategy） |
@@ -162,7 +165,7 @@
 | 1 week ago |  | BIC | [BIC.md](KnowledgeBase/Companies/BIC.md) | **Bishamon Industries Corporation**。Ontario, CA・1986年創業・20名。Amazon・Walmart・Tesla の引き合いをリソース不足で断り続けている |
 | 1 week ago |  | DEMATIC | [DEMATIC.md](KnowledgeBase/Companies/DEMATIC.md) | ドイツ系物流SI大手。DHL・Amazon・Walmart への大規模導入実績 |
 | 1 week ago |  | 四恩システム | [四恩システム.md](KnowledgeBase/Companies/四恩システム.md) | 久留米・40名。Floor SLAM 搭載 AGV。スバルに30台導入。技術提携候補 |
-| 1 week ago |  | ナブテスコ | [ナブテスコ.md](KnowledgeBase/Companies/ナブテスコ.md) | 後付け電動アシストユニット。自動車業界で急成長。IMS との差別化軸 |
+| Today | ★ | ナブテスコ | [ナブテスコ.md](KnowledgeBase/Companies/ナブテスコ.md) | 後付け電動アシストユニット。自動車業界で急成長。IMS との差別化軸。握り部分ストローク検知・複数荷重クラス展開を追記（国際物流総合展2025東京） |
 | 1 week ago |  | infonerv | [infonerv.md](KnowledgeBase/Companies/infonerv.md) | 東大発。Claude 活用 AI 在庫管理。ON SEVEN DAYS 導入済み |
 | 1 week ago |  | ヤマハ発動機 | [ヤマハ発動機_PAXIS.md](KnowledgeBase/Companies/ヤマハ発動機_PAXIS.md) | 車いすインホイールモータの物流横展開 PAXIS。コア技術転用の好例 |
 | 1 week ago |  | MANUVIT | [MANUVIT.md](KnowledgeBase/Companies/MANUVIT.md) | 仏・1981年創業・Variable Geometry 特許。60kg SFL 型が輸入・OEM 候補筆頭 |
@@ -185,12 +188,16 @@
 | 1 week ago |  | 株式会社アイム | [AIM.md](KnowledgeBase/Companies/AIM.md) | 搬送・現場改善機器の設計製作。ダイドー経由で織機・トヨタ系案件。カスタム設計・新商品構想試作での協業検討先 |
 | 5 days ago |  | EAE | [EAE.md](KnowledgeBase/Companies/EAE.md) | 中国。無線移動柱リフトの群組（グループ）同調機構。位置・荷重をリアルタイム表示。カタログ入手済み（Automechanika Shanghai 2025） |
 | 5 days ago |  | SHUNLI（順力） | [SHUNLI.md](KnowledgeBase/Companies/SHUNLI.md) | 中国。2005年創業・21年の実績。2柱リフト・移動式シザーリフト大手、CE認証取得済み（Automechanika Shanghai 2025） |
+| — |  | LEAD TECH | [LEAD_TECH.md](KnowledgeBase/Companies/LEAD_TECH.md) | 「LOGITO」ブランド。全天候型無人牽引車「MyBull TMN-T60」。屋外対応訴求の参考事例（国際物流総合展2025東京） |
+| — |  | ハクオウロボティクス | [ハクオウロボティクス.md](KnowledgeBase/Companies/ハクオウロボティクス.md) | ZMPスピンアウト創業。自動フォークリフト「AutoFork」。三菱ロジがハード供給・販売を担う提携モデル（国際物流総合展2025東京） |
+| — |  | マキテック | [マキテック.md](KnowledgeBase/Companies/マキテック.md) | ローリフト型AMR。補助輪でフォーク挿入前に自重を支える機構。特許動向ウォッチ対象（国際物流総合展2025東京） |
+| — |  | 京町産業 | [京町産業.md](KnowledgeBase/Companies/京町産業.md) | ラックフォーク回転・横スライド式スタッカー。ウォーキータイプへの機構搭載事例（国際物流総合展2025東京） |
 
 ### トレンド（Trends/）
 
 | 最終更新 |  | ファイル | 内容 |
 |:---:|:---:|---|---|
-| 5 days ago | △ | [2025年トレンド](KnowledgeBase/Trends/2025.md) | LogiMAT 2025・Electric China 2025・生成AI World・EP Equipment実稼働・Automechanika Shanghai（電子的同調・重量計測、EV対応リフト）・iREX2025（中国製ヒューマノイド10年差・SEERコモディティ化・GMO代理店参入）|
+| Today | ★ | [2025年トレンド](KnowledgeBase/Trends/2025.md) | LogiMAT 2025・Electric China 2025・国際物流総合展2025東京（ABM選択肢化・薄型/大容量二極化・LEAD TECH/ハクオウロボティクス）・生成AI World・EP Equipment実稼働・Automechanika Shanghai（電子的同調・重量計測、EV対応リフト）・iREX2025（中国製ヒューマノイド10年差・SEERコモディティ化・GMO代理店参入）|
 | 1 week ago |  | [2026年トレンド](KnowledgeBase/Trends/2026.md) | AMR当たり前化・IT侵食・Floor SLAM・電動アシスト急拡大・AI在庫管理実装・BIC北米訪問・RobotTechJapan2026（ヒューマノイド急増・AI×アーム標準化）・TianyuLux冷凍倉庫対応設計 他 |
 
 ### アイデア（Ideas/）
@@ -217,8 +224,9 @@
 | 1 week ago |  | [AMRトップモジュールとしてのリフト機器展開](KnowledgeBase/Ideas/AMR_TopModule_LiftDeployment.md) | Nord Modulesコンセプト。AMR本体開発なしでAMRエコシステムに参加 |
 | 1 week ago |  | [ZIPチェーンによるテーブル昇降装置](KnowledgeBase/Ideas/ZipChain_TableLift.md) | 椿本ZIPチェーン。薄型テーブルの省スペース昇降機構（優先度 高、RobotTechJapan2026） |
 | 1 week ago |  | [3D LiDARによるパレット・ワーク識別](KnowledgeBase/Ideas/LiDAR_PalletWorkID.md) | Doogサウザー由来。カメラに代わる高精度識別方式（優先度 高、RobotTechJapan2026） |
-| 1 week ago |  | [モーター・ドライブユニットの内製化検討](KnowledgeBase/Ideas/DriveUnit_InHouseProduction.md) | NIDEC事例・中国部品サプライチェーンを踏まえた内製化検討。月100〜500台が量産閾値（Electric China 2025） |
+| Today | ★ | [モーター・ドライブユニットの内製化検討](KnowledgeBase/Ideas/DriveUnit_InHouseProduction.md) | NIDEC事例・中国部品サプライチェーンを踏まえた内製化検討。月100〜500台が量産閾値。薄型・5トンクラスの現場ニーズを追記（Electric China 2025／国際物流総合展2025東京） |
 | Yesterday | ◎ | [TianyuLux オフロード電動ローリフト 日本代理店展開](KnowledgeBase/Ideas/TianyuLux_OffroadPalletTruck_JapanDistribution.md) | 5機種の仕様・納期確定まで進展。国内投入環境の見極めが次の課題（202607-Tianyulux） |
+| Today | ★ | [ABMの複数パレット・カゴ車積載仕様](KnowledgeBase/Ideas/ABM_MultiPalletCapacity.md) | Uターン運用前提の奥詰め3パレット化・カゴ車複数台搬送。オートフォークダウン機能を起点に検討（国際物流総合展2025東京） |
 
 <br>
 
