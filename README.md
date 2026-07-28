@@ -1,4 +1,8 @@
+<a id="top"></a>
+
 <img src="Images/ChatGPT Image 2026年6月16日 10_06_32.jpg" width="900">  <br>
+
+**📚 [出張報告書](#出張報告書) ｜ [この仕組みについて](#この仕組みについて--視察を消えない資産に変える) ｜ [講演会レポート](#講演会レポート) ｜ [Strategy](#strategy) ｜ [知識ベース](#知識ベースknowledge-base) ｜ [GitHub 取扱説明書](#github-取扱説明書)**
 
 ## 出張報告書
 
@@ -31,6 +35,8 @@
 | — |  | 2026年7月30日 | [🇻🇳 ベトナム／VILOG 2026（ホーチミン）※事前ブリーフィング](Reports/202607-VILOG/PreVisit_Briefing.md) | 山崎・岡部 | —（視察前） | — |
 | — |  | 2026年11月17日 | [🇹🇭 タイ／METALEX 2026（バンコク）※事前ブリーフィング](Reports/202611-Thailand/PreVisit_Briefing.md) | 山崎 | —（視察前） | — |
 | — |  | 2027年3月16日 | [🇩🇪 ドイツ／LogiMAT 2027（シュトゥットガルト）※事前ブリーフィング](Reports/202703-LogiMat/PreVisit_Briefing.md) | ［要確認：未確定］ | —（視察前） | — |
+
+[⬆ 先頭に戻る](#top)
 
 <br>
 
@@ -87,6 +93,8 @@
 
 📋 **[ナレッジ化 作業ログ（archive_log.md）](Reports/archive_log.md)**
 
+[⬆ 先頭に戻る](#top)
+
 ---
 
 
@@ -101,6 +109,8 @@
 | 3 weeks ago |  | 2026年6月29日 | [ゲーミフィケーションで社会課題を解決する（経済界倶楽部 名古屋6月例会）](Reports/202606-Keizaikai-Yoshida/Lecture.md) | 吉田 直人氏（デジタル・エンターテイメント・アセット） | 山崎 |
 | just now | ★ | 2026年7月22日〜23日 | [課長研修（中産連 第120回、1・2日目）](Reports/202607-ChusanrenKachoKenshu/Lecture.md) | 中産連（一般社団法人 中部産業連盟） | 廣田 |
 | Today | ★ | 2026年8月5日 | [スギヤス（ビシャモン）のブランディングと、AI時代の開発戦略（タナベコンサルティング 製造未来モデル研究会 第4回中部）](Reports/202608-TanabeKenkyukai/Lecture.md) | 山崎（当社 取締役技術部長） | 研究会 会員18社22名＋タナベ5名 |
+
+[⬆ 先頭に戻る](#top)
 
 <br>
 
@@ -117,6 +127,8 @@
 | 3 weeks ago |  | 2026年6月30日 | [AGV/AMR新商品開発アイデア](strategy/20260630/AGV_AMR新商品開発アイデア.md) | 山崎 |
 | 2 weeks ago |  | 2026年6月30日 | [老朽化インフラ整備市場 参入提案](Reports/202606社会資本整備/老朽化インフラ整備_新商品参入提案.md) | 山崎（/infra-mente） |
 | 2 weeks ago |  | 2026年7月1日 | [老朽化インフラ 新商品提案（IoTなし）](Reports/202606社会資本整備/老朽化インフラ_新商品提案_IoTなし_20260701.md) | 山崎（/infra-mente） |
+
+[⬆ 先頭に戻る](#top)
 
 <br>
 
@@ -228,6 +240,8 @@
 | Yesterday | ◎ | [TianyuLux オフロード電動ローリフト 日本代理店展開](KnowledgeBase/Ideas/TianyuLux_OffroadPalletTruck_JapanDistribution.md) | 5機種の仕様・納期確定まで進展。国内投入環境の見極めが次の課題（202607-Tianyulux） |
 | Today | ★ | [ABMの複数パレット・カゴ車積載仕様](KnowledgeBase/Ideas/ABM_MultiPalletCapacity.md) | Uターン運用前提の奥詰め3パレット化・カゴ車複数台搬送。オートフォークダウン機能を起点に検討（国際物流総合展2025東京） |
 
+[⬆ 先頭に戻る](#top)
+
 <br>
 
 ---
@@ -249,6 +263,8 @@
 | [7. 困ったときは](strategy/GitHub-knowledge.md#7-困ったときは) | よくある質問と対処法 |
 
 👉 **[GitHub-knowledge.md を読む](strategy/GitHub-knowledge.md)**
+
+[⬆ 先頭に戻る](#top)
 
 <br>
 
