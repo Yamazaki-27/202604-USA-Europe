@@ -186,4 +186,3 @@ DX提案ブースの乱立ぶりから、AI/DX活用の話題性はもはや「�
 
 <br>
 <img src="Images/OtherPictures/IMG_5606.JPG" width="800">
-<p style="color:#888888; font-size:1.05em;">有明GYM-EX（ARIAKE GYM-EX）の外観。木調の大屋根が特徴的で、快晴の下、開場前後の来場者が行き交う。</p>
