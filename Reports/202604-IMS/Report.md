@@ -427,5 +427,7 @@ DTRを超える能力の牽引車を求める意見があり、2tを超える重
 
 **[IMSプロジェクトシート.md](./IMSプロジェクトシート.md)**
 
-
+※各種開発テーマの進捗を日報から収集したリポジトリを作ってみました。<br>
+　その中にIMSも入っていますので、↓ に置いてみます。2026.7.29 廣田追記<br>
+ https://github.com/HIROTA-KAZUHISA/dev-progress-with-nippou
 
