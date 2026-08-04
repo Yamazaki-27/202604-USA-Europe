@@ -32,13 +32,32 @@
 
 ## 画像ファイルの注意事項
 
-- 写真はリサイズして容量を小さくしてから追加する
+- 写真はリサイズして容量を小さくしてから追加する。**基準は横幅1600px**（配布用PDFで221dpiを確保するため）。1600px以下の写真には触らない
+- **Claudeが目視するのは1000pxの一時コピー**であり、`Images/`の1600px本体ではない（トークン削減。コピーはコミットしない）
+- **`Images/Gensen/` は人間が予め厳選した写真。Claudeは採否を判断せず必ず全て採用する**
+- 不採用写真の扱い：`Images/unUsed/`（ピンぼけ・重複）は**削除してよい**。`Images/OtherPictures/`（よく似た写真）はレポート末尾の「その他の写真」章で使うため**削除しない**
+- 新しくImagesフォルダーを作るときは、`.claude/templates/Images-README-template.md` を `Images/README.md` としてコピーし、`Images/Gensen/` を作る
 - 写真の採否は「20枚以下なら原則全て採用、20枚超は重複（同時間帯の食べ物・ホテルの部屋・同じ場所の集合写真・数秒差のほぼ同一ショット）をunUsedへ」（詳細は `.claude/commands/make-report.md` の「写真の使い方」を正とする）
 - 写真やレポート内容の配置は原則としてその日の実際の時系列（撮影時刻順）を優先する（「朝食 → 訪問 → 昼食 → ミーティング → 晩ごはん」は終日日程の一例。半日日程等はパターンに当てはめず実際のタイムスタンプに従う）
 - 写真キャプションは本文の文言をなぞらない。写真ならではの視点（細部・気づき・ユーモア）を一言足す（詳細は `.claude/commands/make-report.md`）
 - 動画は外部リンク（YouTube・Googleドライブ等）で共有する
 - 1ファイル100MB超はGitHubにpush不可
 - 配布用PDFの生成は `.claude/commands/make-pdf.md` に従う。PDFは原則コミットしない
+
+### リサイズ前の画像をコミットしないための仕組み
+
+生の写真（長辺4000px・数MB）をそのままコミットするとリポジトリが急速に肥大化する。**長辺2000px超または3MB超の画像はコミットできない**よう機械的に止めている。
+
+- **GitHub Actions**（`.github/workflows/check-image-size.yml`）— PR・pushのたびにサーバー側で検査する。誰の環境から来たコミットでも必ず通る、実質的な防波堤
+- **pre-commitフック** — 手元でpushより早く気づくための保険。**フックはgitで配布されないため、cloneしたら各自1回だけ導入する**：
+
+  ```bash
+  cp .claude/scripts/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+  ```
+
+  `core.hooksPath` は使わない（git-lfsが`.git/hooks/`に独自フックを置いており、移すと無効になるため）
+
+引っかかった場合は `.claude/commands/make-report.md` のリサイズ処理を通してからコミットし直す。
 
 
 ## PowerPoint作成ルール

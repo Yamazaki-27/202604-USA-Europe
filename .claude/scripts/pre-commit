@@ -1,0 +1,11 @@
+#!/bin/sh
+# リサイズ前の画像がコミットされるのを防ぐ pre-commit フックの原本。
+#
+# 導入（clone直後に1回。フックはgitで配布されないため各自の環境で実行する）：
+#   cp .claude/scripts/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+#
+# core.hooksPath は使わない。Future-Products-Lab は git-lfs が
+# .git/hooks/ に独自フック（pre-push等）を置いており、hooksPath を移すと
+# それらが無効になるため。
+
+exec python3 "$(git rev-parse --show-toplevel)/.claude/scripts/check-image-size.py"
