@@ -1,0 +1,64 @@
+name: 画像サイズチェック
+
+# pre-commit フックは clone しても自動では入らないため、
+# サーバー側のこのチェックが実質的な防波堤になる。
+on:
+  pull_request:
+    paths:
+      - "**.jpg"
+      - "**.jpeg"
+      - "**.png"
+      - "**.webp"
+      - "**.JPG"
+      - "**.JPEG"
+      - "**.PNG"
+  push:
+    branches: [main]
+    paths:
+      - "**.jpg"
+      - "**.jpeg"
+      - "**.png"
+      - "**.webp"
+      - "**.JPG"
+      - "**.JPEG"
+      - "**.PNG"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 追加・変更された画像だけを検査する
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+            HEAD="${{ github.event.pull_request.head.sha }}"
+          else
+            BASE="${{ github.event.before }}"
+            HEAD="${{ github.sha }}"
+            # 新規ブランチ等で before が空コミットの場合は直前コミットと比べる
+            if ! git cat-file -e "$BASE^{commit}" 2>/dev/null; then
+              BASE="$HEAD~1"
+            fi
+          fi
+
+          git diff --name-only --diff-filter=ACM "$BASE" "$HEAD" \
+            -- '*.jpg' '*.jpeg' '*.png' '*.webp' '*.JPG' '*.JPEG' '*.PNG' > changed.txt
+
+          if [ ! -s changed.txt ]; then
+            echo "検査対象の画像なし。"
+            exit 0
+          fi
+
+          echo "検査対象:"
+          cat changed.txt
+          # 日本語フォルダー名に空白が含まれても壊れないよう改行区切りで渡す
+          xargs -a changed.txt -d '\n' python3 .claude/scripts/check-image-size.py

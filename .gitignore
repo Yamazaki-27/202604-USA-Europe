@@ -4,3 +4,7 @@ Thumbs.db
 
 # 配布用PDF（make-pdf.md の生成物）。リポジトリ肥大化を防ぐため、配布はAirDrop・LINE等で行う
 *.pdf
+
+# Pythonのキャッシュ（check-image-size.py がスクリプトを動的読み込みする際に生成される）
+__pycache__/
+*.pyc
